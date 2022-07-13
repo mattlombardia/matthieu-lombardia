@@ -3,7 +3,7 @@
 # Hi, I'm Matthieu !👋
 
 ## 🚀 About Me
-I'm a application developer.
+I'm a Developer Application JavaScript React.
 
 
 ## 🔗 Links
